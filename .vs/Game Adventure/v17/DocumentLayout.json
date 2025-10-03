@@ -1,0 +1,170 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ssuyudia\\Documents\\SMK-RUS\\GAME DEV\\3D\\Game Adventure\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{295DFEFC-DFA0-7A9F-88CB-56C77211DF45}|Assembly-CSharp.csproj|C:\\Users\\Ssuyudia\\Documents\\SMK-RUS\\GAME DEV\\3D\\Game Adventure\\assets\\asset\\script\\player\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{295DFEFC-DFA0-7A9F-88CB-56C77211DF45}|Assembly-CSharp.csproj|solutionrelative:assets\\asset\\script\\player\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{295DFEFC-DFA0-7A9F-88CB-56C77211DF45}|Assembly-CSharp.csproj|c:\\users\\ssuyudia\\documents\\smk-rus\\game dev\\3d\\game adventure\\assets\\asset\\script\\enemy\\bossmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{295DFEFC-DFA0-7A9F-88CB-56C77211DF45}|Assembly-CSharp.csproj|solutionrelative:assets\\asset\\script\\enemy\\bossmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{295DFEFC-DFA0-7A9F-88CB-56C77211DF45}|Assembly-CSharp.csproj|C:\\Users\\Ssuyudia\\Documents\\SMK-RUS\\GAME DEV\\3D\\Game Adventure\\assets\\asset\\script\\changescene\\changescene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{295DFEFC-DFA0-7A9F-88CB-56C77211DF45}|Assembly-CSharp.csproj|solutionrelative:assets\\asset\\script\\changescene\\changescene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{295DFEFC-DFA0-7A9F-88CB-56C77211DF45}|Assembly-CSharp.csproj|C:\\Users\\Ssuyudia\\Documents\\SMK-RUS\\GAME DEV\\3D\\Game Adventure\\assets\\asset\\script\\gamemanager\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{295DFEFC-DFA0-7A9F-88CB-56C77211DF45}|Assembly-CSharp.csproj|solutionrelative:assets\\asset\\script\\gamemanager\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{295DFEFC-DFA0-7A9F-88CB-56C77211DF45}|Assembly-CSharp.csproj|C:\\Users\\Ssuyudia\\Documents\\SMK-RUS\\GAME DEV\\3D\\Game Adventure\\assets\\asset\\script\\healthmanager\\healthmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{295DFEFC-DFA0-7A9F-88CB-56C77211DF45}|Assembly-CSharp.csproj|solutionrelative:assets\\asset\\script\\healthmanager\\healthmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{295DFEFC-DFA0-7A9F-88CB-56C77211DF45}|Assembly-CSharp.csproj|C:\\Users\\Ssuyudia\\Documents\\SMK-RUS\\GAME DEV\\3D\\Game Adventure\\assets\\asset\\script\\enemy\\mushroommovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{295DFEFC-DFA0-7A9F-88CB-56C77211DF45}|Assembly-CSharp.csproj|solutionrelative:assets\\asset\\script\\enemy\\mushroommovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{295DFEFC-DFA0-7A9F-88CB-56C77211DF45}|Assembly-CSharp.csproj|C:\\Users\\Ssuyudia\\Documents\\SMK-RUS\\GAME DEV\\3D\\Game Adventure\\assets\\asset\\script\\enemy\\slimemovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{295DFEFC-DFA0-7A9F-88CB-56C77211DF45}|Assembly-CSharp.csproj|solutionrelative:assets\\asset\\script\\enemy\\slimemovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{295DFEFC-DFA0-7A9F-88CB-56C77211DF45}|Assembly-CSharp.csproj|C:\\Users\\Ssuyudia\\Documents\\SMK-RUS\\GAME DEV\\3D\\Game Adventure\\assets\\script\\enemy\\enemymovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{295DFEFC-DFA0-7A9F-88CB-56C77211DF45}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\enemy\\enemymovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{295DFEFC-DFA0-7A9F-88CB-56C77211DF45}|Assembly-CSharp.csproj|C:\\Users\\Ssuyudia\\Documents\\SMK-RUS\\GAME DEV\\3D\\Game Adventure\\assets\\asset\\script\\platformmoving\\platformmover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{295DFEFC-DFA0-7A9F-88CB-56C77211DF45}|Assembly-CSharp.csproj|solutionrelative:assets\\asset\\script\\platformmoving\\platformmover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EnemyMovement.cs",
+              "DocumentMoniker": "C:\\Users\\Ssuyudia\\Documents\\SMK-RUS\\GAME DEV\\3D\\Game Adventure\\Assets\\Script\\Enemy\\EnemyMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Enemy\\EnemyMovement.cs",
+              "ToolTip": "C:\\Users\\Ssuyudia\\Documents\\SMK-RUS\\GAME DEV\\3D\\Game Adventure\\Assets\\Script\\Enemy\\EnemyMovement.cs",
+              "RelativeToolTip": "Assets\\Script\\Enemy\\EnemyMovement.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAswAkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T06:06:17.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BossMovement.cs",
+              "DocumentMoniker": "C:\\Users\\Ssuyudia\\Documents\\SMK-RUS\\GAME DEV\\3D\\Game Adventure\\Assets\\asset\\Script\\Enemy\\BossMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\asset\\Script\\Enemy\\BossMovement.cs",
+              "ToolTip": "C:\\Users\\Ssuyudia\\Documents\\SMK-RUS\\GAME DEV\\3D\\Game Adventure\\Assets\\asset\\Script\\Enemy\\BossMovement.cs",
+              "RelativeToolTip": "Assets\\asset\\Script\\Enemy\\BossMovement.cs",
+              "ViewState": "AgIAAGYAAACAzMzMzMwRwHMAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T11:59:53.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\Ssuyudia\\Documents\\SMK-RUS\\GAME DEV\\3D\\Game Adventure\\Assets\\asset\\Script\\GameManager\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\asset\\Script\\GameManager\\GameManager.cs",
+              "ToolTip": "C:\\Users\\Ssuyudia\\Documents\\SMK-RUS\\GAME DEV\\3D\\Game Adventure\\Assets\\asset\\Script\\GameManager\\GameManager.cs",
+              "RelativeToolTip": "Assets\\asset\\Script\\GameManager\\GameManager.cs",
+              "ViewState": "AgIAAAkAAAAAMzMzM9M2wBgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T12:34:36.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PlatformMover.cs",
+              "DocumentMoniker": "C:\\Users\\Ssuyudia\\Documents\\SMK-RUS\\GAME DEV\\3D\\Game Adventure\\Assets\\asset\\Script\\PlatformMoving\\PlatformMover.cs",
+              "RelativeDocumentMoniker": "Assets\\asset\\Script\\PlatformMoving\\PlatformMover.cs",
+              "ToolTip": "C:\\Users\\Ssuyudia\\Documents\\SMK-RUS\\GAME DEV\\3D\\Game Adventure\\Assets\\asset\\Script\\PlatformMoving\\PlatformMover.cs",
+              "RelativeToolTip": "Assets\\asset\\Script\\PlatformMoving\\PlatformMover.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T14:34:48.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SlimeMovement.cs",
+              "DocumentMoniker": "C:\\Users\\Ssuyudia\\Documents\\SMK-RUS\\GAME DEV\\3D\\Game Adventure\\Assets\\asset\\Script\\Enemy\\SlimeMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\asset\\Script\\Enemy\\SlimeMovement.cs",
+              "ToolTip": "C:\\Users\\Ssuyudia\\Documents\\SMK-RUS\\GAME DEV\\3D\\Game Adventure\\Assets\\asset\\Script\\Enemy\\SlimeMovement.cs",
+              "RelativeToolTip": "Assets\\asset\\Script\\Enemy\\SlimeMovement.cs",
+              "ViewState": "AgIAAGcAAAAAZmZmZmYOwHIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T13:18:03.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HealthManager.cs",
+              "DocumentMoniker": "C:\\Users\\Ssuyudia\\Documents\\SMK-RUS\\GAME DEV\\3D\\Game Adventure\\Assets\\asset\\Script\\HealthManager\\HealthManager.cs",
+              "RelativeDocumentMoniker": "Assets\\asset\\Script\\HealthManager\\HealthManager.cs",
+              "ToolTip": "C:\\Users\\Ssuyudia\\Documents\\SMK-RUS\\GAME DEV\\3D\\Game Adventure\\Assets\\asset\\Script\\HealthManager\\HealthManager.cs",
+              "RelativeToolTip": "Assets\\asset\\Script\\HealthManager\\HealthManager.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAABYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T03:30:53.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ChangeScene.cs",
+              "DocumentMoniker": "C:\\Users\\Ssuyudia\\Documents\\SMK-RUS\\GAME DEV\\3D\\Game Adventure\\Assets\\asset\\Script\\ChangeScene\\ChangeScene.cs",
+              "RelativeDocumentMoniker": "Assets\\asset\\Script\\ChangeScene\\ChangeScene.cs",
+              "ToolTip": "C:\\Users\\Ssuyudia\\Documents\\SMK-RUS\\GAME DEV\\3D\\Game Adventure\\Assets\\asset\\Script\\ChangeScene\\ChangeScene.cs",
+              "RelativeToolTip": "Assets\\asset\\Script\\ChangeScene\\ChangeScene.cs",
+              "ViewState": "AgIAAAQAAABAZmZmZmYgwA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T07:01:40.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MushroomMovement.cs",
+              "DocumentMoniker": "C:\\Users\\Ssuyudia\\Documents\\SMK-RUS\\GAME DEV\\3D\\Game Adventure\\Assets\\asset\\Script\\Enemy\\MushroomMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\asset\\Script\\Enemy\\MushroomMovement.cs",
+              "ToolTip": "C:\\Users\\Ssuyudia\\Documents\\SMK-RUS\\GAME DEV\\3D\\Game Adventure\\Assets\\asset\\Script\\Enemy\\MushroomMovement.cs",
+              "RelativeToolTip": "Assets\\asset\\Script\\Enemy\\MushroomMovement.cs",
+              "ViewState": "AgIAAF4AAACYx1OCPGU/wG8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T10:17:27.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "C:\\Users\\Ssuyudia\\Documents\\SMK-RUS\\GAME DEV\\3D\\Game Adventure\\Assets\\asset\\Script\\Player\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\asset\\Script\\Player\\PlayerMovement.cs",
+              "ToolTip": "C:\\Users\\Ssuyudia\\Documents\\SMK-RUS\\GAME DEV\\3D\\Game Adventure\\Assets\\asset\\Script\\Player\\PlayerMovement.cs*",
+              "RelativeToolTip": "Assets\\asset\\Script\\Player\\PlayerMovement.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T08:55:37.893Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
