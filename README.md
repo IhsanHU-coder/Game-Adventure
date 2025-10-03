@@ -33,4 +33,5 @@ Project Unity untuk game ini.
 
 ## ✨ Info
 - Dibuat dengan Unity 6000.0.32f1
-- Platform utama: WebGL / PC
+- Platform utama: PC / Windows
+
